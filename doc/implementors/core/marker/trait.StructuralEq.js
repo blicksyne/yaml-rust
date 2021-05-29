@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["yaml_rust_davvid"] = [{"text":"impl StructuralEq for Event","synthetic":false,"types":[]},{"text":"impl StructuralEq for TEncoding","synthetic":false,"types":[]},{"text":"impl StructuralEq for TScalarStyle","synthetic":false,"types":[]},{"text":"impl StructuralEq for Marker","synthetic":false,"types":[]},{"text":"impl StructuralEq for ScanError","synthetic":false,"types":[]},{"text":"impl StructuralEq for TokenType","synthetic":false,"types":[]},{"text":"impl StructuralEq for Token","synthetic":false,"types":[]},{"text":"impl StructuralEq for Yaml","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

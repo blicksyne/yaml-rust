@@ -1,10 +1,3 @@
 (function() {var implementors = {};
-implementors['yaml_rust'] = ["<a class='stability Stable' title='Stable'></a>impl <a class='trait' href='http://doc.rust-lang.org/nightly/core/cmp/trait.PartialOrd.html' title='core::cmp::PartialOrd'>PartialOrd</a> for <a class='enum' href='yaml_rust/yaml/enum.Yaml.html' title='yaml_rust::yaml::Yaml'>Yaml</a>",];
-
-            if (window.register_implementors) {
-                window.register_implementors(implementors);
-            } else {
-                window.pending_implementors = implementors;
-            }
-        
-})()
+implementors["yaml_rust_davvid"] = [{"text":"impl PartialOrd&lt;Yaml&gt; for Yaml","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
